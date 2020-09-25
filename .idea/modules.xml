@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Parking_Lot.iml" filepath="$PROJECT_DIR$/.idea/modules/Parking_Lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot.Parking_Lot-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot.Parking_Lot-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot.Parking_Lot-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot.Parking_Lot-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot.Parking_Lot-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot.Parking_Lot-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Parking_Lot.Problems-Hello,_Kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Parking_Lot.Problems-Hello,_Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Parking_Lot.Problems-Hello,_Kotlin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Parking_Lot.Problems-Hello,_Kotlin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Parking_Lot.Problems-Hello,_Kotlin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Hello, Kotlin/Parking_Lot.Problems-Hello,_Kotlin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/I like Kotlin/Parking_Lot.Problems-I_like_Kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/I like Kotlin/Parking_Lot.Problems-I_like_Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/I like Kotlin/Parking_Lot.Problems-I_like_Kotlin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/I like Kotlin/Parking_Lot.Problems-I_like_Kotlin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/I like Kotlin/Parking_Lot.Problems-I_like_Kotlin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/I like Kotlin/Parking_Lot.Problems-I_like_Kotlin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The Hello World program/Parking_Lot.Problems-The_Hello_World_program.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The Hello World program/Parking_Lot.Problems-The_Hello_World_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The Hello World program/Parking_Lot.Problems-The_Hello_World_program.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The Hello World program/Parking_Lot.Problems-The_Hello_World_program.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The Hello World program/Parking_Lot.Problems-The_Hello_World_program.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The Hello World program/Parking_Lot.Problems-The_Hello_World_program.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The eternal truth/Parking_Lot.Problems-The_eternal_truth.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The eternal truth/Parking_Lot.Problems-The_eternal_truth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The eternal truth/Parking_Lot.Problems-The_eternal_truth.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The eternal truth/Parking_Lot.Problems-The_eternal_truth.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The eternal truth/Parking_Lot.Problems-The_eternal_truth.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The eternal truth/Parking_Lot.Problems-The_eternal_truth.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Your name/Parking_Lot.Problems-Your_name.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Your name/Parking_Lot.Problems-Your_name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Your name/Parking_Lot.Problems-Your_name.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Your name/Parking_Lot.Problems-Your_name.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Your name/Parking_Lot.Problems-Your_name.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Your name/Parking_Lot.Problems-Your_name.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Parking_Lot.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Parking_Lot.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Parking_Lot.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Parking_Lot.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Parking_Lot.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Parking_Lot.util.test.iml" />
+    </modules>
+  </component>
+</project>
